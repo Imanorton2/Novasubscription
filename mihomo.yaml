@@ -10588,4 +10588,5 @@ rules:
   - DOMAIN-KEYWORD,Thunder,🎯 全球直连
   - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
+  - "DST-PORT,443,REJECT,udp"
   - MATCH,Nova-WARP
