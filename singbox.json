@@ -87,15 +87,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/members",
+        "path": "/star/m/stream/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -110,15 +110,15 @@
       "server_port": 2053,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/ask/sale/pic",
+        "path": "/series/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -133,15 +133,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/v",
+        "path": "/groups/retrieve/city/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -156,15 +156,15 @@
       "server_port": 2087,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/bbs",
+        "path": "/txt/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -179,15 +179,15 @@
       "server_port": 2096,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/lesson",
+        "path": "/task/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -202,15 +202,15 @@
       "server_port": 2087,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/jp/collect/act",
+        "path": "/tools/urls/magnet/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -225,15 +225,15 @@
       "server_port": 2053,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/topic/ads",
+        "path": "/vip/team/club/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -248,15 +248,15 @@
       "server_port": 8443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/clip",
+        "path": "/discuss/trade/new/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -271,15 +271,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/play/special/documents",
+        "path": "/p/hot/mall/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -294,15 +294,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/f/zh-cn",
+        "path": "/service/new/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -317,15 +317,15 @@
       "server_port": 2053,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/zip/avatar/events",
+        "path": "/episodes/pdf/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -340,15 +340,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/txt",
+        "path": "/members/service/groups/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -363,15 +363,15 @@
       "server_port": 2053,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/zip",
+        "path": "/special/resource/go/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -386,15 +386,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/jump.html",
+        "path": "/manhua/search/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -409,15 +409,15 @@
       "server_port": 2053,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/lessons/shop/task",
+        "path": "/act/cart/buy/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -432,15 +432,15 @@
       "server_port": 2087,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/ad/chat/discount",
+        "path": "/code/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -455,15 +455,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/config",
+        "path": "/downloads/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -478,15 +478,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/payment/drama/post",
+        "path": "/retrieve/albums/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -501,15 +501,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/program",
+        "path": "/friends/dh/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -524,15 +524,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/service/uploads",
+        "path": "/qa/service/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -547,15 +547,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/favorite/about",
+        "path": "/soft/travel/seller/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -570,15 +570,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/ads",
+        "path": "/chat/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -593,15 +593,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/source/order",
+        "path": "/map/upload/posts/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -616,15 +616,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/chat/htm/jumping",
+        "path": "/retrieve/html/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -639,15 +639,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/vod/playlist",
+        "path": "/retrieve/seller/class/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -662,15 +662,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/streaming/tool/tv",
+        "path": "/source/event/u/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -685,15 +685,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/gif",
+        "path": "/buy/p/games/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -708,15 +708,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/archive/about/games",
+        "path": "/task/shop/videos/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -731,15 +731,15 @@
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/game/reg",
+        "path": "/documents/members/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -749,20 +749,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-      "server": "104.18.0.0",
+      "tag": "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+      "server": "104.16.148.6",
       "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/shop",
+        "path": "/url/thread/trade/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -772,20 +772,434 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
-      "server": "104.18.1.1",
-      "server_port": 2053,
+      "tag": "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+      "server": "188.114.99.173",
+      "server_port": 443,
       "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
       "transport": {
-        "path": "/cn/index",
+        "path": "/sale/search/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
         "type": "ws",
         "headers": {
-          "Host": "sandy-heron-6be4-68847f19.pages.dev"
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sandy-heron-6be4-68847f19.pages.dev",
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+      "server": "104.16.148.44",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/torrent/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+      "server": "104.16.148.25",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/sale/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+      "server": "188.114.99.167",
+      "server_port": 44,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/source/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+      "server": "188.114.99.179",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/messages/star/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+      "server": "104.16.147.104",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/book/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+      "server": "104.17.222.56",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/groups/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+      "server": "188.114.98.4",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/page/wenku/gif/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+      "server": "188.114.97.174",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/programs/members/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+      "server": "188.114.99.77",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/clips/search/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+      "server": "188.114.98.147",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/photos/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+      "server": "104.16.147.137",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/messages/htm/online/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+      "server": "188.114.98.89",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/tools/tags/show/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+      "server": "104.17.222.58",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/comic/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+      "server": "104.26.4.28",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/payment/blogs/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+      "server": "172.67.130.104",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/acg/activity/articles/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+      "server": "45.130.125.3",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/group/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+      "server": "173.245.49.188",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/friend/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
+      "server": "172.67.158.63",
+      "server_port": 443,
+      "uuid": "7d4b2134-2cf5-4e0c-8fa5-eeff3273703c",
+      "transport": {
+        "path": "/club/team/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-luna-node-18a2.nova-7ce6fc.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-luna-node-18a2.nova-7ce6fc.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -839,8 +1253,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -878,8 +1310,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -945,8 +1395,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -986,8 +1454,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1040,8 +1526,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1081,8 +1585,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1123,8 +1645,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1196,8 +1736,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1256,8 +1814,26 @@
         "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]",
         "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
