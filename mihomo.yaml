@@ -24,7 +24,6 @@ dns:
       - '+.youtube.com'
   nameserver-policy:
     "sandy-heron-6be4-68847f19.pages.dev": https://dns.alidns.com/dns-query
-    "nova-luna-node-18a2.nova-7ce6fc.workers.dev": https://dns.alidns.com/dns-query
     "cloudflare-ech.com": https://dns.alidns.com/dns-query
 port: 7890
 socks-port: 7891
