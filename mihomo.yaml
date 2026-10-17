@@ -43,55 +43,55 @@ proxies:
     udp: true
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
-  - {name: "سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]", server: sandy-heron-6be4-68847f19.pages.dev, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /go.php/content/map/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]", server: 104.17.219.68, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /setting/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]", server: 172.66.1.41, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /settings/mobile/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]", server: 104.17.106.96, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /group/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]", server: 173.245.59.192, port: 2096, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /link/classify/config/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]", server: 198.41.223.172, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /htm/tools/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]", server: 198.41.208.138, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /ask/picture/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]", server: 104.17.210.18, port: 8443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /discount/clips/ja/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]", server: 104.19.35.217, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /city/temp/redirect/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]", server: 104.19.145.97, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /go.php/stream/dh/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]", server: 104.17.30.215, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /f/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]", server: 104.17.121.46, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /bt/archives/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]", server: 8.35.211.78, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /course/shows/act/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]", server: 104.17.175.219, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /books/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]", server: 104.19.34.10, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /ads/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]", server: 104.17.188.43, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /lessons/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]", server: 104.17.110.254, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /downloads/seller/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]", server: 104.19.8.24, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /home/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]", server: 188.114.96.241, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /docs/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]", server: 104.17.128.167, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /out.php/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]", server: 104.17.249.2, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /search/mobile/site/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]", server: 104.21.67.39, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /type/products/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]", server: 162.159.193.251, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /dl/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]", server: 104.24.63.95, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /project/m/mag/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]", server: 104.18.67.210, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /courses/txt/question/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]", server: 104.20.13.207, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /star/albums/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]", server: 104.27.44.4, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /detail/wenku/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]", server: 104.24.74.42, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /htm/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]", server: 162.159.234.146, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /users/redirect.php/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]", server: 104.16.148.6, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /items/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]", server: 188.114.99.173, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /class/ad/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]", server: 104.16.148.44, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /app/cn/knowledge/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]", server: 104.16.148.25, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /comics/zh/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]", server: 188.114.99.167, port: 44, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /qa/feedback/products/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]", server: 188.114.99.179, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /document/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]", server: 104.16.147.104, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /programs/tech/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]", server: 104.17.222.56, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /downloads/store/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]", server: 188.114.98.4, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /books/apps/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]", server: 188.114.97.174, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /player/act/streaming/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]", server: 188.114.99.77, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /dh/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]", server: 188.114.98.147, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /groups/collect/api/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]", server: 104.16.147.137, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /photos/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]", server: 188.114.98.89, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /go.php/seller/details/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]", server: 104.17.222.58, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /data/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]", server: 104.26.4.28, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /tv/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]", server: 172.67.130.104, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /static/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]", server: 45.130.125.3, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /document/items/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]", server: 173.245.49.188, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /list/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]", server: 172.67.158.63, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /index/channel/groups/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1", server: sandy-heron-6be4-68847f19.pages.dev, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /friends/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2", server: 104.17.219.68, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /clip/group/activity/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1", server: 172.66.1.41, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /pic/shop/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2", server: 104.17.106.96, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /html/trade/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1", server: 173.245.59.192, port: 2096, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /m/dl/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2", server: 198.41.223.172, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /knowledge/friend/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1", server: 198.41.208.138, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /tag/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2", server: 104.17.210.18, port: 8443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /topic/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1", server: 104.19.35.217, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /u/films/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2", server: 104.19.145.97, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /ajax/chat/download/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1", server: 104.17.30.215, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /about/rank/comic/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2", server: 104.17.121.46, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /downloads/buy/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1", server: 8.35.211.78, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /pay/item/retrieve/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2", server: 104.17.175.219, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /outbound/photos/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1", server: 104.19.34.10, port: 2053, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /book/ajax/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2", server: 104.17.188.43, port: 2087, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /special/dh/m/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1", server: 104.17.110.254, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /torrent/books/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2", server: 104.19.8.24, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /events/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1", server: 188.114.96.241, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /buy/document/link/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2", server: 104.17.128.167, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /payment/image/members/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1", server: 104.17.249.2, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /data/archive/blog/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2", server: 104.21.67.39, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /groups/games/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1", server: 162.159.193.251, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /community/tv/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2", server: 104.24.63.95, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /photos/vip/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1", server: 104.18.67.210, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /source/u/show/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2", server: 104.20.13.207, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /search/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1", server: 104.27.44.4, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /acg/go.php/code/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2", server: 104.24.74.42, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /sort/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1", server: 162.159.234.146, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /special/class/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2", server: 104.16.148.6, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /thread/shop/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1", server: 188.114.99.173, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /topic/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2", server: 104.16.148.44, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /class/music/go.html/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1", server: 104.16.148.25, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /seller/groups/task/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2", server: 188.114.99.167, port: 44, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /qa/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1", server: 188.114.99.179, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /player/trade/outbound/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2", server: 104.16.147.104, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /service/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1", server: 104.17.222.56, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /wenku/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2", server: 188.114.98.4, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /ad/apps/cart/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1", server: 188.114.97.174, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /services/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2", server: 188.114.99.77, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /store/hot/collect/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1", server: 188.114.98.147, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /docs/out.html/out.php/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2", server: 104.16.147.137, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /city/doc/films/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1", server: 188.114.98.89, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /section/zh-cn/discuss/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2", server: 104.17.222.58, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /player/register/pages/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1", server: 104.26.4.28, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /note/category/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2", server: 172.67.130.104, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /knowledge/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1", server: 45.130.125.3, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /task/ajax/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2", server: 173.245.49.188, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: nova-luna-node-18a2.nova-7ce6fc.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /episode/order/apps/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBELDx0GBwZNBFUaUAADERgPQgwUQQ8OUQFXGEU=, headers: {Host: nova-luna-node-18a2.nova-7ce6fc.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1", server: 172.67.158.63, port: 443, type: vless, uuid: 7d4b2134-2cf5-4e0c-8fa5-eeff3273703c, tls: true, skip-cert-verify: true, servername: sandy-heron-6be4-68847f19.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /topic/photos/video/TEZAG0JUEQ4PQQwFXl4BRxxBRVcVFVtMCABEXBEDBwQZAQRXGVcETAsFERgPQgwUQQ8OVABbHUU=, headers: {Host: sandy-heron-6be4-68847f19.pages.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -108,110 +108,110 @@ proxy-groups:
     proxies:
       - "📢 https://t.me/irnova"
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 📹 油管视频
     type: select
     proxies:
@@ -238,55 +238,55 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 📲 电报信息
     type: select
     proxies:
@@ -294,55 +294,55 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🚀 节点选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 🤖 OpenAi
     type: select
     proxies:
@@ -360,55 +360,55 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🎯 全球直连
       - 🚀 节点选择
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -416,55 +416,55 @@ proxy-groups:
       - "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       - 🚀 节点选择
       - 🎯 全球直连
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -473,55 +473,55 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -552,55 +552,55 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS]
-      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova sandy-heron-6be4-68847f19.pages.dev:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.219.68:2053 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.66.1.41:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.106.96:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 173.245.59.192:2096 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 198.41.223.172:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 198.41.208.138:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.210.18:8443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.35.217:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.145.97:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.30.215:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.121.46:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 8.35.211.78:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.175.219:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.19.34.10:2053 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.188.43:2087 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.110.254:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.19.8.24:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.96.241:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.128.167:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.249.2:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.21.67.39:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.193.251:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.63.95:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.18.67.210:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.20.13.207:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.27.44.4:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.24.74.42:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 162.159.234.146:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.6:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.173:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.148.44:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.16.148.25:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.167:44 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.99.179:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.17.222.56:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.98.4:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.97.174:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 188.114.99.77:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.147:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.16.147.137:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 188.114.98.89:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 104.17.222.58:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 104.26.4.28:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 172.67.130.104:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 45.130.125.3:443 [VLESS] ·S1
+      - سرویس رایگان نوا @irnova 173.245.49.188:443 [VLESS] ·S2
+      - سرویس رایگان نوا @irnova 172.67.158.63:443 [VLESS] ·S1
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
